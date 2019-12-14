@@ -1,2 +1,4 @@
 # hello-world
 First time creating a repository in GitHub
+
+Luis I. Minchala received the B.S.E.E. degree in electronics from the Salesian Polytechnic University, Cuenca, Ecuador, in 2006, and the M.S. and Ph.D. degrees in control engineering from Tecnológico de Monterrey, Monterrey, México, in 2011 and 2014, respectively. From summer 2012 to summer 2013, he was a Visiting Scholar at Concordia University, Montreal, QC, Canada. Between 2015-2017, he was a full-time researcher with the Department of Electrical, Electronic and Telecommunications Engineering, Universidad de Cuenca, Ecuador. He is currently a Postdoctoral Fellow at Tecnológico de Monterrey in the Climate Change Research Group. Dr. Minchala has authored and co-authored more than 40 indexed publications, including journal articles, conference proceedings, book chapters, and a book. His research interests are fault tolerant control applied to energy systems, automation and process control.
